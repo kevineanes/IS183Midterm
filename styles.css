@@ -1,0 +1,37 @@
+.header-logo {
+	height:100px;
+	width:calc(100%-30px);
+	padding:5px 5px;
+}
+
+.footer-copyright {
+	position:absolute;
+	bottom:0;
+	right:0;
+	left:0;
+	height:50px;
+	background-color:#ADD8E6;
+    text-align:center;
+}
+
+.submit-form {
+    position:absolute;
+    left:calc(50%-30px);
+}
+
+.left-sidebar {
+	float:left;
+    background-color:#ADD8E6;
+	width:10%;
+	height:450px;
+}
+
+.product-table {
+    border:solid 1pt black;
+    border-collapse:collapse;
+    padding:40px;
+}
+
+.product-table td {
+    border:solid 1pt black;
+}
